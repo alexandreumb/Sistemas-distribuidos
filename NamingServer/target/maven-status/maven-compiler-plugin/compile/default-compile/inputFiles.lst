@@ -1,0 +1,10 @@
+/home/luis/Desktop/Sistemas_Distribuidos/Projeto/A17-DistLedger/NamingServer/src/main/java/pt/tecnico/distledger/namingserver/domain/ServerEntry.java
+/home/luis/Desktop/Sistemas_Distribuidos/Projeto/A17-DistLedger/NamingServer/src/main/java/pt/tecnico/distledger/namingserver/NamingServerMain.java
+/home/luis/Desktop/Sistemas_Distribuidos/Projeto/A17-DistLedger/NamingServer/src/main/java/pt/tecnico/distledger/namingserver/domain/ServiceEntry.java
+/home/luis/Desktop/Sistemas_Distribuidos/Projeto/A17-DistLedger/NamingServer/src/main/java/pt/tecnico/distledger/namingserver/exception/AddressAlreadyInUseException.java
+/home/luis/Desktop/Sistemas_Distribuidos/Projeto/A17-DistLedger/NamingServer/src/main/java/pt/tecnico/distledger/namingserver/domain/NamingServerState.java
+/home/luis/Desktop/Sistemas_Distribuidos/Projeto/A17-DistLedger/NamingServer/src/main/java/pt/tecnico/distledger/namingserver/exception/ServerAlreadyDeletedException.java
+/home/luis/Desktop/Sistemas_Distribuidos/Projeto/A17-DistLedger/NamingServer/src/main/java/pt/tecnico/distledger/namingserver/grpc/NamingServerServiceImpl.java
+/home/luis/Desktop/Sistemas_Distribuidos/Projeto/A17-DistLedger/NamingServer/src/main/java/pt/tecnico/distledger/namingserver/exception/ServerEntryAlreadyExistsOnServiceException.java
+/home/luis/Desktop/Sistemas_Distribuidos/Projeto/A17-DistLedger/NamingServer/src/main/java/pt/tecnico/distledger/namingserver/other/NamingServerUtilities.java
+/home/luis/Desktop/Sistemas_Distribuidos/Projeto/A17-DistLedger/NamingServer/src/main/java/pt/tecnico/distledger/namingserver/grpc/NamingServerService.java
